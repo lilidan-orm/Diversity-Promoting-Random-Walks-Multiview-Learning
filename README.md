@@ -1,6 +1,6 @@
 Diversity-Promoting-Random-Walks based Multi-view Learning
 =
-This repository contains the code for our paper "Enhancing Contrastive Multi-View Representation Learning with Diversity-Promoting Random Walks", which is currently under review at Pattern Recognition journal.
+This repository contains the code for our paper "Enhancing Contrastive Multi-View Representation Learning with Diversity-Promoting Random Walks", which is currently under review at Pattern Recognition 2026.
 
 Requirment
 =
