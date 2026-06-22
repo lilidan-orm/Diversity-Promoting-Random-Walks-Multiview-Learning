@@ -1,6 +1,7 @@
 One-to-Many Multi-view
 =
 This repository contains the code for our paper "Enhancing Contrastive Multi-View Representation Learning with Diversity-Promoting Random Walks", which is currently under review at Pattern Recognition journal.
+
 Requirment
 =
 pytoch=1.3.1  
