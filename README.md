@@ -1,4 +1,4 @@
-One-to-Many Multi-view
+Diversity-Promoting-Random-Walks based Multi-view Learning
 =
 This repository contains the code for our paper "Enhancing Contrastive Multi-View Representation Learning with Diversity-Promoting Random Walks", which is currently under review at Pattern Recognition journal.
 
@@ -12,10 +12,11 @@ scipy=1.3.1
 
 Dataset
 =
-The datasets used in the paper can be obtained through the following links [Google Drive](https://drive.google.com/file/d/1gKAcKx3Gu2zzJieXfg7r1Dm4dveqGH84/view?usp=sharing) or  [Baidu Disk](https://pan.baidu.com/s/1a1BVH26zIcer_Qa8f-BbrA?pwd=g84z) (code: g84z)
+The multi-view clustering datasets and multi-view multi-label datasets used in the paper can be obtained through the following links [Baidu Disk](https://pan.baidu.com/s/1FFm-GWjmy9Mza8c7ZErVvg?pwd=h9t6)(h9t6)
+ and [Baidu Disk](https://pan.baidu.com/s/1TFYIOlmr0d8jMC9v4koKZQ?pwd=2wv9)(code: esrr) 
 
 Usage
 =
 
-You can get the following output by running multi_view_main.py  
+You can get the outputs by running main files such as main_three_view.py 
 (modify the dataset path in the multi_view_data.py)
